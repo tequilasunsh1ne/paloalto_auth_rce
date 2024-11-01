@@ -1,6 +1,6 @@
 # paloalto_auth_rce
 from: https://github.com/horizon3ai/CVE-2024-9464/blob/main/CVE-2024-9464.py
-
+product: PAN-OS
 ```
 #!/usr/bin/python3
 import argparse
